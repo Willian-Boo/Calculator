@@ -51,6 +51,12 @@ button:hover{
 button:active{
     background-color: hsl(0, 0%, 50%);
 }
+.clear-display{
+    background-color: hsl(0, 81%, 28%);
+}
+.clear-display:hover{
+    background-color: hsl(0, 81%, 38%);
+}
 .btn-operator{
     background-color: hsl(35, 100%, 55%);
 }
